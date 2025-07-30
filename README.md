@@ -92,7 +92,7 @@ A sleek, modern photo editing application built using **Python**, **CustomTkinte
 
 The project is contained in a single script (`main.py`) with a class-based structure for modularity and readability.
 
-### 🔧 Key Components
+### Key Components
 
 #### `App(CTk)`
 Main class inheriting from `customtkinter.CTk`. Manages the entire UI and image processing logic.
