@@ -15,6 +15,11 @@ A sleek, modern photo editing application built using **Python**, **CustomTkinte
 
 ---
 
+## Program Demo
+
+![Photo_Editor](https://github.com/Poyamohamadi/Photo_Editor/blob/main/demo.gif)
+
+
 ## Features
 
 - **Open & Edit Images**: Load any image from your system.
